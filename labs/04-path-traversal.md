@@ -3,8 +3,8 @@
 **Platform:** PortSwigger Web Security Academy  
 **Vulnerability class:** Path Traversal  
 **Difficulty:** Apprentice  
-**Status:** Not started  
-**Date completed:** N/A  
+**Status:** Finished
+**Date completed:** 11/1/2026
 **Tools used:** Burp Suite Community Edition, Web Browser
 
 ## Objective
